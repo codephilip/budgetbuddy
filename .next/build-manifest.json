@@ -1,0 +1,70 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/about": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/account": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/budget": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/create": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/login": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/product": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/signup": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/summary": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ],
+    "/transactions": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.c45a3525d481d46d00b5.js",
+      "static/runtime/main-c67b3616a88f01cf5d19.js"
+    ]
+  }
+}

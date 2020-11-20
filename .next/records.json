@@ -1,0 +1,55 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\_app.js": 3,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\_error.js": 4,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\about.js": 5,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\account.js": 6,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\budget.js": 7,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\create.js": 8,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\index.js": 9,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\login.js": 10,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\product.js": 11,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\signup.js": 12,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\summary.js": 13,
+      "static\\kC0eghkmuiHsZ9QeNHJhD\\pages\\transactions.js": 14,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\_app.js": 15,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\_error.js": 16,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\about.js": 17,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\account.js": 18,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\budget.js": 19,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\create.js": 20,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\index.js": 21,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\login.js": 22,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\product.js": 23,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\signup.js": 24,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\summary.js": 25,
+      "static\\jwKaabH5V7E2wk2Jrur7X\\pages\\transactions.js": 26
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      15,
+      16,
+      17,
+      18,
+      19,
+      2,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ]
+  }
+}
