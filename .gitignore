@@ -1,2 +1,4 @@
-/build/
-/node_modules/
+build/
+node_modules/
+build/static/runtime/webpack.js
+build/static/runtime/webpack.js.map
