@@ -34,7 +34,6 @@ function Header({ user }) {
 
         <Link href="/about">
           <Menu.Item header active={isActive("/about")}>
-            <Icon name="cart" size="large" />
             About
           </Menu.Item>
         </Link>
@@ -42,7 +41,7 @@ function Header({ user }) {
         {isRootOrAdmin && (
           <Link href="/create">
             <Menu.Item header active={isActive("/create")}>
-              <Icon name="add square" size="large" />
+
               Create
             </Menu.Item>
           </Link>
@@ -52,19 +51,16 @@ function Header({ user }) {
           <>
             <Link href="/budget">
               <Menu.Item header active={isActive("/budget")}>
-                <Icon name="user" size="large" />
                 MyBudget
               </Menu.Item>
             </Link>
             <Link href="/summary">
               <Menu.Item header active={isActive("/summary")}>
-                <Icon name="user" size="large" />
                 Summary
               </Menu.Item>
             </Link>
             <Link href="/transactions">
             <Menu.Item header active={isActive("/transactions")}>
-              <Icon name="user" size="large" />
               Transactions
             </Menu.Item>
           </Link>
