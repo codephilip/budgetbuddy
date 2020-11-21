@@ -3,12 +3,20 @@
     "short_name": "",
     "icons": [
         {
+<<<<<<< HEAD
             "src": "/BudgetBuddy.png",
+=======
+            "src": "/android-chrome-192x192.png",
+>>>>>>> d10a14607b0a56bbb0d1729d89f9f42016b96df4
             "sizes": "192x192",
             "type": "image/png"
         },
         {
+<<<<<<< HEAD
             "src": "/BudgetBuddy.png",
+=======
+            "src": "/android-chrome-512x512.png",
+>>>>>>> d10a14607b0a56bbb0d1729d89f9f42016b96df4
             "sizes": "512x512",
             "type": "image/png"
         }

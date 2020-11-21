@@ -16,10 +16,17 @@ function Layout({ children, user }) {
           rel="stylesheet"
           href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css"
         />
+<<<<<<< HEAD
         <title>Budget Buddy</title>
       </Head>
       <Header user={user} />
       <Container style={{ paddingTop: "1em" }}>
+=======
+        <title>ReactReserve</title>
+      </Head>
+      <Header user={user} />
+      <Container text style={{ paddingTop: "1em" }}>
+>>>>>>> d10a14607b0a56bbb0d1729d89f9f42016b96df4
         {children}
       </Container>
     </>

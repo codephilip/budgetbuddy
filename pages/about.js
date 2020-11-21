@@ -8,7 +8,12 @@ function About() {
   return (
 
     <Segment>
+<<<<<<< HEAD
 <h1>Palace holder</h1>
+=======
+      <BudgetComponent />
+      <BudgetComponent />
+>>>>>>> d10a14607b0a56bbb0d1729d89f9f42016b96df4
     </Segment>
   );
 

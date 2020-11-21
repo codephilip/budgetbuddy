@@ -9,6 +9,10 @@ function Summary() {
 
     <Segment>
       <SummaryComponent />
+<<<<<<< HEAD
+=======
+      <SummaryComponent />
+>>>>>>> d10a14607b0a56bbb0d1729d89f9f42016b96df4
     </Segment>
   );
   

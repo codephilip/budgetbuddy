@@ -2,6 +2,7 @@ import React from "react";
 import axios from "axios";
 import ProductList from "../components/Index/ProductList";
 import baseUrl from "../utils/baseUrl";
+<<<<<<< HEAD
 import { Row, Card, Form, Button, Col } from "react-bootstrap";
 
 function Home({ products }) {
@@ -27,4 +28,20 @@ function Home({ products }) {
   );
 }
 
+=======
+
+function Home({ products }) {
+  return <ProductList products={products} />;
+}
+
+Home.getInitialProps = async () => {
+  const url = `${baseUrl}/api/products`;
+  // fetch data on server
+  const response = await axios.get(url);
+  // return response data as an object
+  return { products: response.data };
+  // note: this object will be merged with existing props
+};
+
+>>>>>>> d10a14607b0a56bbb0d1729d89f9f42016b96df4
 export default Home;
