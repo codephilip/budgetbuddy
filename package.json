@@ -5,11 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next",
-<<<<<<< HEAD
     "start": "next start -p 8080",
-=======
-    "start": "next start",
->>>>>>> d10a14607b0a56bbb0d1729d89f9f42016b96df4
     "build": "next build"
   },
   "keywords": [],
@@ -18,10 +14,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "bcrypt": "^3.0.6",
-<<<<<<< HEAD
     "bootstrap": "^4.5.3",
-=======
->>>>>>> d10a14607b0a56bbb0d1729d89f9f42016b96df4
     "js-cookie": "^2.2.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.6.7",
@@ -29,7 +22,6 @@
     "nookies": "^2.0.8",
     "nprogress": "^0.2.0",
     "react": "^17.0.1",
-<<<<<<< HEAD
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
     "react-google-charts": "^3.0.15",
@@ -37,28 +29,13 @@
     "react-router-bootstrap": "^0.25.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.0",
-=======
-    "react-dom": "^17.0.1",
->>>>>>> d10a14607b0a56bbb0d1729d89f9f42016b96df4
     "react-stripe-checkout": "^2.6.3",
     "semantic-ui-react": "^0.87.3",
     "shortid": "^2.2.14",
     "stripe": "^7.5.0",
-<<<<<<< HEAD
     "url-loader": "^3.0.0",
     "uuid": "^3.3.2",
     "validator": "^11.1.0",
-=======
-    "uuid": "^3.3.2",
-    "validator": "^11.1.0",
-    "bootstrap": "^4.5.3",
-    "react-bootstrap": "^1.4.0",
-    "react-google-charts": "^3.0.15",
-    "react-router": "^5.2.0",
-    "react-router-bootstrap": "^0.25.0",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.0",
->>>>>>> d10a14607b0a56bbb0d1729d89f9f42016b96df4
     "web-vitals": "^0.2.4"
   }
 }
