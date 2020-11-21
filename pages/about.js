@@ -8,8 +8,7 @@ function About() {
   return (
 
     <Segment>
-      <BudgetComponent />
-      <BudgetComponent />
+<h1>Palace holder</h1>
     </Segment>
   );
 

@@ -7,8 +7,7 @@ function Account() {
   return (
 
     <Segment>
-      <Budgets />
-      <Budgets />
+      <h1>Placeholder</h1>
     </Segment>
 
   );

@@ -9,7 +9,6 @@ function Summary() {
 
     <Segment>
       <SummaryComponent />
-      <SummaryComponent />
     </Segment>
   );
   

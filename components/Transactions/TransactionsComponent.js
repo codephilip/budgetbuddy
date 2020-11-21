@@ -7,7 +7,7 @@ function MyTransactions() {
       <h1 className="ml-0">Transactions</h1>
       <Row className="mt-3 ml-0 mr-0">
         <Form onSubmit={this}>
-          <Form.Group controlId="transactionForm.Type" inline>
+          <Form.Group controlId="transactionForm.Type">
             <Form.Label>Transaction type</Form.Label>
             <Form.Control as="select">
               <option value="income">Income</option>
@@ -44,7 +44,7 @@ function MyTransactions() {
           </Button>
         </Form>
       </Row>
-      <Row className="mt-3">
+      <Row className="mt-3 mr-0 ml-0">
         <h2>All Transactions</h2>
         <Table responsive>
           <thead>

@@ -33,6 +33,7 @@
     "semantic-ui-react": "^0.87.3",
     "shortid": "^2.2.14",
     "stripe": "^7.5.0",
+    "url-loader": "^3.0.0",
     "uuid": "^3.3.2",
     "validator": "^11.1.0",
     "web-vitals": "^0.2.4"

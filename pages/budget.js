@@ -9,7 +9,6 @@ function Budget() {
 
     <Segment>
       <BudgetComponent />
-      <BudgetComponent />
     </Segment>
   );
   

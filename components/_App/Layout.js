@@ -19,7 +19,7 @@ function Layout({ children, user }) {
         <title>Budget Buddy</title>
       </Head>
       <Header user={user} />
-      <Container text style={{ paddingTop: "1em" }}>
+      <Container style={{ paddingTop: "1em" }}>
         {children}
       </Container>
     </>
