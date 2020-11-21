@@ -1,0 +1,43 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/_app.js": 2,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/_error.js": 3,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/about.js": 4,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/account.js": 5,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/budget.js": 6,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/create.js": 7,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/index.js": 8,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/login.js": 9,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/product.js": 10,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/signup.js": 11,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/summary.js": 12,
+      "static/9oSyVhJNuRIr8GszTuBSK/pages/transactions.js": 13,
+      "static/runtime/main.js": 14
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
