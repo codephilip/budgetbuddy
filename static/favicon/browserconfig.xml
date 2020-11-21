@@ -2,11 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-<<<<<<< HEAD
             <square150x150logo src="/BudgetBuddy.png"/>
-=======
-            <square150x150logo src="/mstile-150x150.png"/>
->>>>>>> d10a14607b0a56bbb0d1729d89f9f42016b96df4
             <TileColor>#00df94</TileColor>
         </tile>
     </msapplication>
